@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spa-redirect-demo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/spa-redirect-demo/static/js/main.b1c6980a.chunk.js",
+    "main.js.map": "/spa-redirect-demo/static/js/main.b1c6980a.chunk.js.map",
+    "runtime-main.js": "/spa-redirect-demo/static/js/runtime-main.82c5f7cb.js",
+    "runtime-main.js.map": "/spa-redirect-demo/static/js/runtime-main.82c5f7cb.js.map",
+    "static/js/2.c634b359.chunk.js": "/spa-redirect-demo/static/js/2.c634b359.chunk.js",
+    "static/js/2.c634b359.chunk.js.map": "/spa-redirect-demo/static/js/2.c634b359.chunk.js.map",
+    "index.html": "/spa-redirect-demo/index.html",
+    "precache-manifest.fdf8e1ad937d5bbc008fd600c46f59c7.js": "/spa-redirect-demo/precache-manifest.fdf8e1ad937d5bbc008fd600c46f59c7.js",
+    "service-worker.js": "/spa-redirect-demo/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/spa-redirect-demo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c634b359.chunk.js.LICENSE.txt": "/spa-redirect-demo/static/js/2.c634b359.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c5f7cb.js",
+    "static/js/2.c634b359.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b1c6980a.chunk.js"
+  ]
+}
